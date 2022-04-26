@@ -1,3 +1,4 @@
+![test1](https://user-images.githubusercontent.com/104464531/165397659-adc457fc-5120-42e1-b041-c88640a25cbd.jpg)
 - 👋 Hi, I’m @mopraska
 - 👀 I’m interested in learning the basics of coding, and teaching myself more about computer science.
 - 🌱 I’m currently learning using codecademy with the computer science career path (lesson 1/82)
